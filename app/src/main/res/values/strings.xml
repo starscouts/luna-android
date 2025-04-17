@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">Equestria.dev Luna</string>
+    <string name="app_launch_name" translatable="false">Luna</string>
+    <string name="app_session_name" translatable="false">Luna %1$s (Android DSB %2$s, %3$s, Mobile)</string>
+    <string name="root" translatable="false">ponies.equestria.horse</string>
+
+    <string name="action_about">About Luna</string>
+    <string name="action_coldhaze">View on Cold Haze</string>
+    <string name="action_quit">Quit</string>
+    <string name="activity_name">Luna for Android</string>
+    <string name="main_status_update">General status</string>
+    <string name="main_status_placeholder">Please wait…</string>
+    <string name="status_unpaired">Pairing has not been completed. Please click on the icon in the bottom right corner to start pairing.</string>
+    <string name="status_preparing">Getting ready to pair…</string>
+</resources>
